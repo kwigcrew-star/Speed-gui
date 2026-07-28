@@ -114,8 +114,8 @@ createButton("Slow Speed (1.2x)", 2, function()
     speedEnabled = true
 end)
 
-createButton("Normal Speed (2.7x)", 3, function()
-    currentSpeed = 2.7
+createButton("Normal Speed (2.5x)", 3, function()
+    currentSpeed = 2.5
     speedEnabled = true
 end)
 
